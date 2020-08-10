@@ -2,7 +2,18 @@
 
 * Tela home, trata-se da primeira tela vista após o login efetuado com sucesso, na tela teremos os seguintes:
 
-1. Acesso rápido a centrais cadastradas;
-    > verificar a possibilidade de criar acesso rápido para o dispositivo na area de trabalho do smartphone.
-1. Botão para menu de opções;
-- > Botão de cadastro para novos dispositivos se for o caso;
+1. Caso seja a primeira conexão, mostrar tela para adicionar gateway;
+
+1. Mostrar servidores conectados;
+
+1. cada servidor deve possuir um nome para ser identificado;
+
+1. os servidores offline deve possuir cor diferente, com transparência;
+
+1. possuir button para adicionar mais servidores
+1. possuir botão de menu;
+
+1. Possuir logo;
+
+1. estudar a possibilidade de um button voltar, de preferencia o atalho do smartphone.
+

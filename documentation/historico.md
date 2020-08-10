@@ -40,4 +40,12 @@ ___
 1. GIMP - GNU Image Manipulation Program
     - Versão: 2.10.20
 
+1. servidor de teste: 
+    ### Base: 
+    * node version v12.18.3
+    * npm  version 6.14.6
+    * yarn version 0.32+git
+    ### server de  teste:
+    * yarn init-y
+    * yarn add ectends
 ___
